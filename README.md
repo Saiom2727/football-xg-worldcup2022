@@ -66,7 +66,7 @@ Brier Score: 0.090
 
 ### Calibration Curve
 
-![Calibration Curve](figures/calibration_curve.png)
+![Calibration Curve](figures/calibration_curve_LR.png)
 
 ### Distance vs Predicted xG
 
