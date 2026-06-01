@@ -1,0 +1,11 @@
+venv/
+**pycache**/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+
+data/raw/
+models/*.pkl
+
+.DS_Store
