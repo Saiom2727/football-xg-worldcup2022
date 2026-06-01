@@ -1,6 +1,6 @@
 # Expected Goals (xG) Modeling using FIFA World Cup 2022 Data
 
-![Feature Importance](figures/feature_importance_clean.png)
+![Feature Importance](figures/feature_importance.png)
 
 ## Overview
 
@@ -72,9 +72,7 @@ Brier Score: 0.090
 
 ![Distance vs xG](figures/distance_vs_xg.png)
 
-### Feature Importance
 
-![Feature Importance](figures/feature_importance_clean.png)
 
 ---
 
